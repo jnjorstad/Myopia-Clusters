@@ -1,5 +1,5 @@
 # Myopia-Clusters
-I fit data to a model to predict myopia using clustering algorithms to place data into groups and created visualizations of the findings.
+I fit data to a model to predict myopia using clustering algorithms to place data into groups. With the clustering, I created visualizations.
 
 # Methods Used
 Prepared Data, Applied Dimensionality Reduction, Cluster Analysis with K-Means
